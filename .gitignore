@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Logs
 logs
@@ -146,3 +147,8 @@ sftp-config.json
 # Visual Studio Code - https://code.visualstudio.com/
 .settings/
 .vscode/
+=======
+config.json
+.vscode
+.idea
+>>>>>>> test
